@@ -26,9 +26,9 @@ internal class Program
                 totalAsterisks += "*";
             }
             Console.WriteLine($"{i + 2}: {totalAsterisks}");
-
         }
 
+        Console.WriteLine("\nThank you for using the dice throwing simulator. Goodbye!");
 
     }
 }
